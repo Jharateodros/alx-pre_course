@@ -1,1 +1,1 @@
-my 2 readme
+I am a software enginner
